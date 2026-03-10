@@ -1,5 +1,7 @@
 # wannier90-workflows
 
+[![CI](https://img.shields.io/github/actions/workflow/status/chatmaterials/wannier90-workflows/ci.yml?branch=main&label=CI)](https://github.com/chatmaterials/wannier90-workflows/actions/workflows/ci.yml) [![Release](https://img.shields.io/github/v/release/chatmaterials/wannier90-workflows?display_name=tag)](https://github.com/chatmaterials/wannier90-workflows/releases)
+
 Standalone skill for Wannier90 input design, parent DFT handoff checks, localization review, and disentanglement guidance.
 
 ## What This Skill Covers

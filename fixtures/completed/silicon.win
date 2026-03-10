@@ -1,0 +1,10 @@
+num_wann = 4
+num_bands = 4
+mp_grid = 6 6 6
+
+spinors = false
+bands_plot = false
+
+begin projections
+Si:sp3
+end projections

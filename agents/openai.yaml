@@ -1,0 +1,5 @@
+interface:
+  display_name: "Wannier90 Workflows"
+  short_description: "Build and debug Wannier90 localization workflows"
+  brand_color: "#7C2D12"
+  default_prompt: "Use $wannier90-workflows to prepare, inspect, or debug a Wannier90 workflow."

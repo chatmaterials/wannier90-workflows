@@ -1,0 +1,15 @@
+num_wann = 8
+num_bands = 12
+mp_grid = 6 6 6
+
+spinors = false
+bands_plot = false
+
+begin projections
+Si:sp3
+end projections
+
+dis_win_min = -8.0
+dis_win_max = 8.0
+dis_froz_min = -4.0
+dis_froz_max = 4.0
